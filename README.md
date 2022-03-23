@@ -1,9 +1,9 @@
 ### Hi there my name is Paulo and I am a programming and technology addict 👋
 
 - 🔭 I’m currently working on enterprize repository
-- 🌱 I’m currently learning kubernets and blockchain
+- 🌱 I’m currently learning kubernetes and blockchain
 - 👯 I’m looking to collaborate on blockchain projects
-- 🤔 I’m looking for help with kubernets devops
+- 🤔 I’m looking for help with kubernetes devops
 - 💬 Ask me about anything
 - 📫 How to reach me: linkedin
 
