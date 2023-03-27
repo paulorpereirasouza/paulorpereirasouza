@@ -8,7 +8,7 @@
 - 📫 How to reach me: linkedin
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paulorpereirasouza&theme=dark)](https://git.io/streak-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=paulorpereirasouza&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <div align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=paulorpereirasouza&theme=dark"/>
