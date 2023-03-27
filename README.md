@@ -7,8 +7,8 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: linkedin
 
-<div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=paulorpereirasouza&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=paulorpereirasouza&theme=onedark"/>
 </div>
 <div align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=paulorpereirasouza&theme=dark"/>
