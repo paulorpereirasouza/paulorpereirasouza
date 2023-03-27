@@ -1,4 +1,4 @@
-### Hi there my name is Paulo and I am a programming and technology addict 👋
+### Hi there my name is Paulo and I am a programming and technology addict 👋 <img src="https://komarev.com/ghpvc/?username=paulorpereirasouza"/>
 
 - 🔭 I’m currently working on enterprise repository
 - 🌱 I’m currently learning kubernetes and blockchain
