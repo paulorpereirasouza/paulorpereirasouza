@@ -8,10 +8,10 @@
 - 📫 How to reach me: linkedin
 
 Enterprise:
-[![](https://tokei.rs/b1/github/aiapps-corp/Enterprise)]([https://github.com/XAMPPRocky/tokei](https://github.com/aiapps-corp/Enterprise))
-[![](https://tokei.rs/b1/github/aiapps-corp/Enterprise?showLanguage=true&languageRank=1&label=Most%20Used%20Language)]([https://github.com/XAMPPRocky/tokei](https://github.com/aiapps-corp/Enterprise)).
-[![](https://tokei.rs/b1/github/aiapps-corp/Enterprise?showLanguage=true&languageRank=2&label=2nd%20Most%20Used%20Language)]([https://github.com/XAMPPRocky/tokei](https://github.com/aiapps-corp/Enterprise)).
-[![](https://tokei.rs/b1/github/aiapps-corp/Enterprise?showLanguage=true&languageRank=3&label=3rd%20Most%20Used%20Language)]([https://github.com/XAMPPRocky/tokei](https://github.com/aiapps-corp/Enterprise)).
+[![](https://tokei.rs/b1/github/XAMPPRocky/tokei)]([https://github.com/XAMPPRocky/tokei](https://github.com/aiapps-corp/Enterprise))
+[![](https://tokei.rs/b1/github/XAMPPRocky/tokei?showLanguage=true&languageRank=1&label=Most%20Used%20Language)]([https://github.com/XAMPPRocky/tokei](https://github.com/aiapps-corp/Enterprise)).
+[![](https://tokei.rs/b1/github/XAMPPRocky/tokei?showLanguage=true&languageRank=2&label=2nd%20Most%20Used%20Language)]([https://github.com/XAMPPRocky/tokei](https://github.com/aiapps-corp/Enterprise)).
+[![](https://tokei.rs/b1/github/XAMPPRocky/tokei?showLanguage=true&languageRank=3&label=3rd%20Most%20Used%20Language)]([https://github.com/XAMPPRocky/tokei](https://github.com/aiapps-corp/Enterprise)).
 
 <div align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=paulorpereirasouza&theme=onedark"/>
