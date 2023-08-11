@@ -8,7 +8,7 @@
 - 📫 How to reach me: linkedin
 
 Enterprise:
-[![](https://tokei.rs/b1/github/XAMPPRocky/tokei)]([https://github.com/XAMPPRocky/tokei](https://github.com/aiapps-corp/Enterprise))
+[![](https://tokei.rs/b1/github/aiapps-corp/Enterprise)]([https://github.com/XAMPPRocky/tokei](https://github.com/aiapps-corp/Enterprise))
 
 <div align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=paulorpereirasouza&theme=onedark"/>
